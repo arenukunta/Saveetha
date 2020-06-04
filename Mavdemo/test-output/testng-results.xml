@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="92" started-at="2020-06-04T03:12:28Z" finished-at="2020-06-04T03:12:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="92" started-at="2020-06-04T03:12:28Z" finished-at="2020-06-04T03:12:28Z">
+      <class name="com.testng.ParciallTestcase1$ParallelExecution1">
+        <test-method status="PASS" signature="testcase4()[pri:0, instance:com.testng.ParciallTestcase1$ParallelExecution1@60c6f5b]" name="testcase4" duration-ms="19" started-at="2020-06-04T03:12:28Z" finished-at="2020-06-04T03:12:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+        <test-method status="PASS" signature="testcase5()[pri:0, instance:com.testng.ParciallTestcase1$ParallelExecution1@60c6f5b]" name="testcase5" duration-ms="3" started-at="2020-06-04T03:12:28Z" finished-at="2020-06-04T03:12:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+        <test-method status="PASS" signature="testcase6()[pri:0, instance:com.testng.ParciallTestcase1$ParallelExecution1@60c6f5b]" name="testcase6" duration-ms="10" started-at="2020-06-04T03:12:28Z" finished-at="2020-06-04T03:12:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+      </class> <!-- com.testng.ParciallTestcase1$ParallelExecution1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
